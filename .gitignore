@@ -1,0 +1,63 @@
+*.iml
+.gradle
+/local.properties
+/.idea/caches
+/.idea/libraries
+/.idea/modules.xml
+/.idea/workspace.xml
+/.idea/navEditor.xml
+/.idea/assetWizardSettings.xml
+.DS_Store
+/build
+/captures
+.externalNativeBuild
+.cxx
+local.properties
+
+
+# Android build
+/build/
+/app/build/
+/.gradle/
+/local.properties
+/.idea/caches
+/.idea/libraries
+/.idea/modules.xml
+/.idea/workspace.xml
+/.idea/navEditor.xml
+/.idea/assetWizardSettings.xml
+
+# Keystore files
+*.jks
+
+# Gradle files
+.gradle
+/local.properties
+**/build/
+
+# Signing/keys
+*.keystore
+*.pem
+
+# Android Studio
+*.iml
+*.ipr
+*.iws
+.idea/
+
+# Mac/Linux
+.DS_Store
+
+# Windows
+Thumbs.db
+
+# Log & temp files
+*.log
+*.temp
+
+# Kotlin specific
+*.kts~
+
+# Misc
+*.swp
+*.lock
