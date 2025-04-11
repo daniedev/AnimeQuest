@@ -21,3 +21,5 @@ dependencyResolutionManagement {
 
 rootProject.name = "AnimeQuest"
 include(":app")
+include(":domain")
+include(":data")
